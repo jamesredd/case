@@ -3,7 +3,7 @@ matplotlib
 scipy
 xarray
 dask
-"dask[distributed]"
+dask[distributed]
 netCDF4
 fsspec
 s3fs

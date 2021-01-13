@@ -7,3 +7,5 @@ dask
 netCDF4
 fsspec
 s3fs
+rasterio
+h5netcdf

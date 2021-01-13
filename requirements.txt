@@ -1,0 +1,8 @@
+boto3
+matplotlib
+scipy
+xarray
+dask
+netCDF4
+fsspec
+s3fs

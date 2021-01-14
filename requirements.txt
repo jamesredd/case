@@ -2,8 +2,7 @@ boto3
 matplotlib
 scipy
 xarray
-dask
-dask[distributed]
+dask[complete]
 netCDF4
 fsspec
 s3fs
